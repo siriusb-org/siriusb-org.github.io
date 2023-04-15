@@ -12,7 +12,7 @@ relative_permalinks: false
 title:            SIRIUS B
 tagline:          "Sharing Inclusive Research Instruction for Underrepresented Students' Benefit"
 description:      'Empowerment through enrichment.'
-url:              https://siriusb.org
+url:              https://siriusb-org.github.io #https://siriusb.org
 baseurl:          / #https://siriusb-org.github.io #/
 
 author:
@@ -22,7 +22,7 @@ author:
 # paginate:         5
 
 # Custom vars
-version:          2    
+version:   
 
-# github:
-  # repo:           
+github:
+  repo:           
