@@ -1,26 +1,28 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown #redcarpet
 highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+relative_permalinks: false
+
+# plugins:  [jekyll-paginate]
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+title:            SIRIUS B
+tagline:          "Sharing Inclusive Research Instruction for Underrepresented Students' Benefit"
+description:      'Empowerment through enrichment.'
+url:              https://siriusb.org
+baseurl:          / #https://siriusb-org.github.io #/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Ava Polzin'
+  url:            https://avapolzin.github.io
 
-paginate:         5
+# paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           
