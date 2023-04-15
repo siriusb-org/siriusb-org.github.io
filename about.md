@@ -12,4 +12,4 @@ More information about the Stellar STEM Weekends and our other programs can be a
 A timeline of our history, including some programming highlights:
 
 
-![Timeline of LCEP/SIRIUS B programming history from 2009 to present.]({{ site.baseurl }}LCEP_SIRIUSB_timeline.001.png)
+![Timeline of LCEP/SIRIUS B programming history from 2009 to present.]({{ "LCEP_SIRIUSB_timeline.001.png" | relative_url }})
