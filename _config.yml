@@ -22,7 +22,7 @@ author:
 # paginate:         5
 
 # Custom vars
-version:          
+version:          2    
 
-github:
-  repo:           
+# github:
+  # repo:           
