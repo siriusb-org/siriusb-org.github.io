@@ -13,3 +13,7 @@ A timeline of our history, including some programming highlights:
 
 
 ![Timeline of LCEP/SIRIUS B programming history from 2009 to present.]({{ "LCEP_SIRIUSB_timeline.001.png" | relative_url }})
+
+
+![LCEP/SIRIUS B founder, Ava, with all of the Lakota guests]({{ "March2019_blanket.jpg" | relative_url }})
+**SIRIUS B** founder, Ava, with the Lakota guests from the 2019 Stellar STEM Weekend.

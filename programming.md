@@ -14,7 +14,10 @@ Media:
 - [NU Center for Interdisciplinary Exploration and Research in Astrophysics write-up of 2019 Weekend](https://ciera.northwestern.edu/2019/05/28/lakota-stellar-stem-weekend/)
 - [Video of talk by SIRIUS B founder about the framework for Stellar STEM Weekends at CNAIR Research Symposium](https://www.youtube.com/watch?time_continue=1001&v=LYu68FY-9XU&embeds_euri=http%3A%2F%2Fwww.thelakotaculturalexchangeprogram.org%2F&source_ve_path=MzY4NDI&feature=emb_logo&themeRefresh=1)
 
-## VERGE: Virtual Events for Remote enGagEment
+## VERGE: Virtual Events for Remote Gathering and Engagement
 <!-- VERGE: Virtual Events for Remotely Generating Engagement -->
 
 A series of virtual workshops for students in remote locations. ***Coming soon.***
+
+
+![Participants enjoying citizen science during Stellar STEM Weekend]({{ "March2019_ssw.jpg" | relative_url }})
