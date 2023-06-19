@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-**SIRIUS B** stands for **Sharing Inclusive Research Instruction for Underrepresented Students' Benefit**, both figuratively as the driving force behind the organization and literally as, like many names in astronomy, **SIRIUS B** is an acronym. And, like many of those acronyms, is actually a "backronym", as a nod to Sirius B, the white dwarf companion of the dog star that was discovered with the telescope lens in Northwestern University's Dearborn Observatory. Dearborn has played a crucial role in the pilot of Stellar STEM Weekends, one of our core programs.
+**SIRIUS B** stands for **Sharing Inclusive Research Instruction for Underrepresented Students' Benefit**, both figuratively as the driving force behind the organization and literally as, like many names in astronomy, **SIRIUS B** is an acronym. And, like many of those acronyms, it's actually a "backronym", as a nod to Sirius B, the white dwarf companion of the dog star that was discovered with the telescope lens in Northwestern University's Dearborn Observatory. Dearborn has played a crucial role in the pilot of Stellar STEM Weekends, one of our core programs.
 
 More information about the Stellar STEM Weekends and our other programs can be accessed [here](https://siriusb.org/programming).
 

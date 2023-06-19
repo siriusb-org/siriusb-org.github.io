@@ -5,7 +5,7 @@ title: Our Programming
 
 ## Stellar STEM Weekends
 
-Stellar STEM Weekends were first piloted in cooperation with the Northwestern University Center for Native American and Indigenous Research (CNAIR), the Northwestern Office of Institutional Diversity and Inclusion, and the Northwestern Department of Physics and Astronomy in 2018 and 2019. Though the onset of the COVID-19 pandemic derailed the planning that was underway in 2020, we are now back in a position to reprise these Weekends of science education and cultural exchange. We are now exploring the possibility of running a Chicago-area Stellar STEM Weekend later in 2023 with participation from (astro)physicists and affiliates of the University of Chicago and Northwestern University. Check back for more soon!
+Stellar STEM Weekends were first piloted in cooperation with the Northwestern University Center for Native American and Indigenous Research (CNAIR), the Northwestern Office of Institutional Diversity and Inclusion, and the Northwestern Department of Physics and Astronomy in 2018 and 2019. Though the onset of the COVID-19 pandemic derailed the planning that was underway in 2020, we are now back in a position to reprise these Weekends of science education and cultural exchange. We are now exploring the possibility of running a Chicago-area Stellar STEM Weekend in 2024 with participation from (astro)physicists and affiliates of the University of Chicago and Northwestern University. Check back for more soon!
 
 
 Media:
@@ -17,7 +17,73 @@ Media:
 ## VERGE: Virtual Events for Remote Gathering and Engagement
 <!-- VERGE: Virtual Events for Remotely Generating Engagement -->
 
-A series of virtual workshops for students in remote locations. ***Coming soon.***
+A series of virtual workshops for Indigenous students (grades 8 - 10) in remote locations.
 
+VERGE aims to make programming like the Stellar STEM Weekends accessible to Native students from reservations, rural areas, and the like. VERGE weekends will include talks and instruction from professional astronomers/astrophysicists, cultural exchange and a discussion of traditional star knowledge, and a conversation about the night sky as one of our greatest collective resources. 
+
+VERGE has been funded by one of the inaugural grants from the International Astronomical Union's North American Regional Office of Astronomy for Development (NA-ROAD) Women and Girls in Astronomy Program. As a result, our 2023 program will exclusively enroll girls. We anticipate expanding enrollment in the future.
+
+
+Interested in participating? To sign up for email updates please fill out our [student interest form](https://forms.gle/wqmpexV7VcYHF4hC7). Alternatively, if you're a teacher interested in learning about our opportunities for your students, please fill out our [teacher interest form](https://forms.gle/Dvaod8XKwJD1te396).
+
+***More details coming soon.*** 
 
 ![Participants enjoying citizen science during Stellar STEM Weekend]({{ "March2019_ssw.jpg" | relative_url }})
+
+We thank NA-ROAD's Women and Girls in Astronomy Program and the Heising-Simons Foundation for their support of our next VERGE weekend. ![Our sponsors -- NA-ROAD and the Heising-Simons Foundation]({{ "sponsors.png" | relative_url }}){:width="20%"}
+
+
+
+<!-- Previous sponsor logo attempts -- would be good to figure this out in the future! 
+ -->
+<!-- ![NA-ROAD logo]({{ "NAROADlogo.png" | relative_url }}){:width="10%"}
+
+![HSF_logo]({{ "HSF_logo_social.jpg" | relative_url }}){:width="10%"} -->
+
+<!-- ![NA-ROAD logo]({{ "NAROADlogo.png" | relative_url }}){:width="10%"}
+![HSF_logo]({{ "HSF_logo_social.jpg" | relative_url }}){:width="10%"} -->
+
+<!-- <div style="display:flex">
+     <div style="flex:1" justify-content = "right">
+          <img src="{{ "NAROADlogo.png" | relative_url }}"  width="15%">
+     </div>
+     <div style="flex:1">
+          <img src="{{ "HSF_logo_social.jpg" | relative_url }}"  width="15%">
+     </div>
+</div> -->
+
+<!-- <div style="display:flex; justify-content: center">
+     <div>
+          <img src="{{ "NAROADlogo.png" | relative_url }}"  width="15%">
+     </div>
+     <div>
+          <img src="{{ "HSF_logo_social.jpg" | relative_url }}"  width="15%">
+     </div>
+</div> -->
+
+<!-- .box {
+  display: flex;
+  justify-content: space-between;
+}
+
+<div class="box">
+     <div style="flex:1" justify-content = "right">
+          <img src="{{ "NAROADlogo.png" | relative_url }}"  width="15%">
+     </div>
+     <div style="flex:1">
+          <img src="{{ "HSF_logo_social.jpg" | relative_url }}"  width="15%">
+     </div>
+</div> -->
+
+<!-- <table><tr>
+<td><img src="{{ "NAROADlogo.png" | relative_url }}"  width="15%"><img src="{{ "HSF_logo_social.jpg" | relative_url }}"  width="15%"></td> 
+</tr></table>
+
+<figure markdown>
+  ![NA-ROAD logo]({{ "NAROADlogo.png" | relative_url }}){:width="10%"}
+
+  ![HSF_logo]({{ "HSF_logo_social.jpg" | relative_url }}){:width="10%"}
+  <figcaption></figcaption>
+</figure> -->
+
+
