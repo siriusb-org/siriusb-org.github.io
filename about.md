@@ -7,7 +7,7 @@ title: About
 
 More information about the Stellar STEM Weekends and our other programs can be accessed [here](https://siriusb.org/programming).
 
-**SIRIUS B** is a more inclusive rebrand of the [Lakota Cultural Exchange Program](http://thelakotaculturalexchangeprogram.org), evolving naturally with the program as efforts are expanded to reach more students. For more information about the LCEP and how it came to be, please visit that [site](http://thelakotaculturalexchangeprogram.org).
+**SIRIUS B** is a more inclusive rebrand of the [Lakota Cultural Exchange Program](http://thelakotaculturalexchangeprogram.org){:target="_blank"}, evolving naturally with the program as efforts are expanded to reach more students. For more information about the LCEP and how it came to be, please visit that [site](http://thelakotaculturalexchangeprogram.org){:target="_blank"}.
 
 A timeline of our history, including some programming highlights:
 

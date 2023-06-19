@@ -9,10 +9,10 @@ Stellar STEM Weekends were first piloted in cooperation with the Northwestern Un
 
 
 Media:
-- [Northwestern Physics newsletter write-up of 2018 Weekend with Bad River Ojibwe girls, p. 6](https://physics.northwestern.edu/about/dimensions/2018-fall-dimensions.pdf)
-- [NU Physics newsletter write-up of 2019 Weekend with Lakota-Sioux girls, also p. 6](https://physics.northwestern.edu/about/dimensions/2019-spring-dimensions.pdf)
-- [NU Center for Interdisciplinary Exploration and Research in Astrophysics write-up of 2019 Weekend](https://ciera.northwestern.edu/2019/05/28/lakota-stellar-stem-weekend/)
-- [Video of talk by SIRIUS B founder about the framework for Stellar STEM Weekends at CNAIR Research Symposium](https://www.youtube.com/watch?time_continue=1001&v=LYu68FY-9XU&embeds_euri=http%3A%2F%2Fwww.thelakotaculturalexchangeprogram.org%2F&source_ve_path=MzY4NDI&feature=emb_logo&themeRefresh=1)
+- [Northwestern Physics newsletter write-up of 2018 Weekend with Bad River Ojibwe girls, p. 6](https://physics.northwestern.edu/about/dimensions/2018-fall-dimensions.pdf){:target="_blank"}
+- [NU Physics newsletter write-up of 2019 Weekend with Lakota-Sioux girls, also p. 6](https://physics.northwestern.edu/about/dimensions/2019-spring-dimensions.pdf){:target="_blank"}
+- [NU Center for Interdisciplinary Exploration and Research in Astrophysics write-up of 2019 Weekend](https://ciera.northwestern.edu/2019/05/28/lakota-stellar-stem-weekend/){:target="_blank"}
+- [Video of talk by SIRIUS B founder about the framework for Stellar STEM Weekends at CNAIR Research Symposium](https://www.youtube.com/watch?time_continue=1001&v=LYu68FY-9XU&embeds_euri=http%3A%2F%2Fwww.thelakotaculturalexchangeprogram.org%2F&source_ve_path=MzY4NDI&feature=emb_logo&themeRefresh=1){:target="_blank"}
 
 ## VERGE: Virtual Events for Remote Gathering and Engagement
 <!-- VERGE: Virtual Events for Remotely Generating Engagement -->
@@ -24,7 +24,7 @@ VERGE aims to make programming like the Stellar STEM Weekends accessible to Nati
 VERGE has been funded by one of the inaugural grants from the International Astronomical Union's North American Regional Office of Astronomy for Development (NA-ROAD) Women and Girls in Astronomy Program. As a result, our 2023 program will exclusively enroll girls. We anticipate expanding enrollment in the future.
 
 
-Interested in participating? To sign up for email updates please fill out our [student interest form](https://forms.gle/wqmpexV7VcYHF4hC7). Alternatively, if you're a teacher interested in learning about our opportunities for your students, please fill out our [teacher interest form](https://forms.gle/Dvaod8XKwJD1te396).
+Interested in participating? To sign up for email updates please fill out our [student interest form](https://forms.gle/wqmpexV7VcYHF4hC7){:target="_blank"}. Alternatively, if you're a teacher interested in learning about our opportunities for your students, please fill out our [teacher interest form](https://forms.gle/Dvaod8XKwJD1te396){:target="_blank"}.
 
 ***More details coming soon.*** 
 
