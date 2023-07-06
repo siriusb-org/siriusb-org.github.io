@@ -30,7 +30,9 @@ Interested in participating? To sign up for email updates please fill out our [s
 
 ![Participants enjoying citizen science during Stellar STEM Weekend]({{ "March2019_ssw.jpg" | relative_url }})
 
-We thank NA-ROAD's Women and Girls in Astronomy Program and the Heising-Simons Foundation for their support of our next VERGE weekend. ![Our sponsors -- IAU NA-ROAD and the Heising-Simons Foundation]({{ "sponsors2.png" | relative_url }}){:width="40%"}
+We thank the IAU [North American Regional Office of Astronomy for Development](https://naroad.astro4dev.org/) and the [Heising-Simons Foundation](https://www.hsfoundation.org/) for their support of our next VERGE weekend. ![Our sponsors -- IAU NA-ROAD and the Heising-Simons Foundation]({{ "sponsors2.png" | relative_url }}){:width="40%"} 
+
+<!-- if using sponsors.png, width = 20%-->
 
 
 
