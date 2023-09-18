@@ -5,7 +5,7 @@ title: Our Volunteers
 
 Interested in working with us? Fill out this [form](https://forms.gle/k5eQQjDZxTMWj8mY6){:target="_blank"} or email siriusborganization [at] gmail.com.
 
-None of this would be possible without our partners/volunteers. For a list of people who have given their time in the past (broken out by primary involvement), see below. To learn more about a particular program we've run, use the email above or reach out to the organizer(s).
+None of this would be possible without our partners/volunteers. For a list of people who have given their time in the past (broken out by primary involvement), see below. To learn more about a particular program we've run, use the email above or reach out to the organizer(s) directly.
 
 ## 2023 VERGE
 Funded by the International Astronomical Union North American Regional Office of Astronomy for Development Women and Girls in Astronomy Program and the Heising-Simons Foundation.
@@ -42,7 +42,7 @@ Funded by the Northwestern Office of Institutional Diversity and Inclusion and t
 - Chema Hernandez
 - Jen Michals
 - Pamala Silas (presenter)
-- Tom Voitas
+- Dr. Tom Voitas
 
 ### Science Presentations
 - Prof. Megan Bang (talk)
