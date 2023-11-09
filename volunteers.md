@@ -16,7 +16,7 @@ Funded by the International Astronomical Union North American Regional Office of
 
 ### Booklet Authors and Contributors
 - Yasmeen Asali (*Gravitational Waves* and *AI/Machine Learning*)
-- Sanah Bhimani (*Experimental Cosmology*)
+- Sanah Bhimani (*Experimental CMB Cosmology*)
 - Madison Brady (*Exoplanets*)
 - Prof. Hsiao-Wen Chen (advice for students)
 - Mandy Chen (*Galaxies' Gaseous Outskirts*)
