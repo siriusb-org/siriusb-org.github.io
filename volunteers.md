@@ -14,7 +14,7 @@ Funded by the International Astronomical Union North American Regional Office of
 - Ava Polzin
 - Nathalie Jones (in absentia)
 
-### Workbook Authors and Contributors
+### Booklet Authors and Contributors
 - Yasmeen Asali (*Gravitational Waves and AI/Machine Learning*)
 - Sanah Bhimani (*Experimental Cosmology*)
 - Madison Brady (*Exoplanets*)
