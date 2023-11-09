@@ -14,6 +14,8 @@ Media:
 - [NU Center for Interdisciplinary Exploration and Research in Astrophysics write-up of 2019 Weekend](https://ciera.northwestern.edu/2019/05/28/lakota-stellar-stem-weekend/){:target="_blank"}
 - [Video of talk by SIRIUS B founder about the framework for Stellar STEM Weekends at CNAIR Research Symposium](https://www.youtube.com/watch?time_continue=1001&v=LYu68FY-9XU&embeds_euri=http%3A%2F%2Fwww.thelakotaculturalexchangeprogram.org%2F&source_ve_path=MzY4NDI&feature=emb_logo&themeRefresh=1){:target="_blank"}
 
+![Participants and chaperone (left) with Prof. Patty Loew (right) after the cultural exchange dinner on the Evanston lakefront.]({{ "Sep2018_cexch.jpg" | relative_url }})
+
 ## VERGE: Virtual Events for Remote Gathering and Engagement
 <!-- VERGE: Virtual Events for Remotely Generating Engagement -->
 
