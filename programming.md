@@ -19,7 +19,7 @@ Media:
 ## VERGE: Virtual Events for Remote Gathering and Engagement
 <!-- VERGE: Virtual Events for Remotely Generating Engagement -->
 
-A series of virtual workshops for Indigenous students (grades 8 - 10) in remote locations.
+A series of virtual workshops for Indigenous students (grades 8 - 11) in remote locations.
 
 VERGE aims to make programming like the Stellar STEM Weekends accessible to Native students from reservations, rural areas, and the like. VERGE weekends will include talks and instruction from professional astronomers/astrophysicists, cultural exchange and a discussion of traditional star knowledge, and a conversation about the night sky as one of our greatest collective resources. 
 
