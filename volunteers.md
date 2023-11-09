@@ -12,7 +12,29 @@ Funded by the International Astronomical Union North American Regional Office of
 
 ### Organizers
 - Ava Polzin
-- Nathalie Jones
+- Nathalie Jones (in absentia)
+
+### Workbook Authors and Contributors
+- Yasmeen Asali (*Gravitational Waves and AI/Machine Learning*)
+- Sanah Bhimani (*Experimental Cosmology*)
+- Madison Brady (*Exoplanets*)
+- Prof. Hsiao-Wen Chen (advice for students)
+- Mandy Chen (*Galaxies' Gaseous Outskirts*)
+- Dr. Lindsay DeMarchi (*Dark and Quiet Sky Conservation*)
+- Michelle Gurevich (*Numerical Relativity and Gravitational Waves*)
+- Dr. Emily Lichko (*Cosmic Rays*)
+- Emma Louden (*Space Policy and Aerospace/Astronautics*)
+- Julie Malewicz (art; *Black Holes*)
+- Prof. Raf Margutti (advice for students)
+- Prof. Priya Natarajan (advice for students)
+- Samantha Pagan (*Astroparticle Physics*)
+- Prof. Malena Rice (*Exoplanets' Orbital Architecture*)
+- Prof. Leslie Rogers (advice for students)
+- Zili Shen (*Stellar Streams/Star Clusters and Dark Matter in Galaxies*)
+- Emily Simon (*Astrophysical Plasmas*)
+- Dr. Candice Stauffer (*Stellar Astrophysics*)
+- Dr. Luna Zagorac (*Theoretical Cosmology*)
+- Prof. Irina Zhuravleva (advice for students)
 
 
 ***
