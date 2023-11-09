@@ -61,7 +61,7 @@ Funded by the Northwestern Office of Institutional Diversity and Inclusion and t
 - Prof. Deborah Brown (presenter)
 - Prof. Anupam Garg
 - Jasmine Gurneau
-- Chema Hernandez
+- Josemanuel Hernandez
 - Jen Michals
 - Pamala Silas (presenter)
 - Dr. Tom Voitas
