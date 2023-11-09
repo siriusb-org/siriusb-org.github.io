@@ -15,7 +15,7 @@ Funded by the International Astronomical Union North American Regional Office of
 - Nathalie Jones (in absentia)
 
 ### Booklet Authors and Contributors
-- Yasmeen Asali (*Gravitational Waves and AI/Machine Learning*)
+- Yasmeen Asali (*Gravitational Waves* and *AI/Machine Learning*)
 - Sanah Bhimani (*Experimental Cosmology*)
 - Madison Brady (*Exoplanets*)
 - Prof. Hsiao-Wen Chen (advice for students)
@@ -30,7 +30,7 @@ Funded by the International Astronomical Union North American Regional Office of
 - Samantha Pagan (*Astroparticle Physics*)
 - Prof. Malena Rice (*Exoplanets' Orbital Architecture*)
 - Prof. Leslie Rogers (advice for students)
-- Zili Shen (*Stellar Streams/Star Clusters and Dark Matter in Galaxies*)
+- Zili Shen (*Stellar Streams/Star Clusters* and *Dark Matter in Galaxies*)
 - Emily Simon (*Astrophysical Plasmas*)
 - Dr. Candice Stauffer (*Stellar Astrophysics*)
 - Dr. Luna Zagorac (*Theoretical Cosmology*)
