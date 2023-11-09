@@ -15,6 +15,9 @@ Media:
 - [Video of talk by SIRIUS B founder about the framework for Stellar STEM Weekends at CNAIR Research Symposium](https://www.youtube.com/watch?time_continue=1001&v=LYu68FY-9XU&embeds_euri=http%3A%2F%2Fwww.thelakotaculturalexchangeprogram.org%2F&source_ve_path=MzY4NDI&feature=emb_logo&themeRefresh=1){:target="_blank"}
 
 ![Participants and chaperone (left) with Prof. Patty Loew (right) after the cultural exchange dinner on the Evanston lakefront.]({{ "Sep2018_cexch.jpg" | relative_url }})
+Participants and chaperone (left) with Prof. Patty Loew (right) after the cultural exchange dinner on the Evanston lakefront.
+
+&nbsp;
 
 ## VERGE: Virtual Events for Remote Gathering and Engagement
 <!-- VERGE: Virtual Events for Remotely Generating Engagement -->
@@ -31,6 +34,9 @@ Interested in participating? To sign up for email updates please fill out our [s
 ***Our first official VERGE program will run January 27-28, 2024 for Native Hawaiian girls in late middle school and high school.*** 
 
 ![Participants enjoying citizen science during Stellar STEM Weekend]({{ "March2019_ssw.jpg" | relative_url }})
+Participants enjoying citizen science during the 2019 Stellar STEM Weekend.
+
+&nbsp;
 
 We thank the IAU [North American Regional Office of Astronomy for Development](https://naroad.astro4dev.org/) and the [Heising-Simons Foundation](https://www.hsfoundation.org/) for their support of our next VERGE weekend. ![Our sponsors -- IAU NA-ROAD and the Heising-Simons Foundation]({{ "sponsors2.png" | relative_url }}){:width="40%"} 
 
