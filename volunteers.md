@@ -20,7 +20,7 @@ Funded by the International Astronomical Union North American Regional Office of
 - Madison Brady (*Exoplanets*)
 - Prof. Katie Breivik (advice for students)
 - Prof. Hsiao-Wen Chen (advice for students)
-- Prof. Deanne Coppehans (advice for students)
+- Prof. Deanne Coppejans (advice for students)
 - Mandy Chen (*Galaxies' Gaseous Outskirts*)
 - Dr. Lindsay DeMarchi (*Dark and Quiet Sky Conservation*)
 - Michelle Gurevich (*Numerical Relativity and Gravitational Waves*)
@@ -36,7 +36,7 @@ Funded by the International Astronomical Union North American Regional Office of
 - Zili Shen (*Stellar Streams/Star Clusters* and *Dark Matter in Galaxies*)
 - Emily Simon (*Astrophysical Plasmas*)
 - Dr. Candice Stauffer (*Stellar Astrophysics*)
-- Prof. Katherine E. Whitaker (advice for students)
+- Prof. Kate Whitaker (advice for students)
 - Dr. Luna Zagorac (*Theoretical Cosmology*)
 - Prof. Irina Zhuravleva (advice for students)
 
