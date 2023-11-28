@@ -16,6 +16,7 @@ Funded by the International Astronomical Union North American Regional Office of
 
 ### Booklet Authors and Contributors
 - Yasmeen Asali (*Gravitational Waves* and *AI/Machine Learning*)
+- Prof. Katie Auchettl (advice for students)
 - Sanah Bhimani (*Experimental CMB Cosmology*)
 - Madison Brady (*Exoplanets*)
 - Prof. Katie Breivik (advice for students)
@@ -24,6 +25,7 @@ Funded by the International Astronomical Union North American Regional Office of
 - Prof. Deanne Coppejans (advice for students)
 - Dr. Lindsay DeMarchi (*Dark and Quiet Sky Conservation*)
 - Michelle Gurevich (*Numerical Relativity and Gravitational Waves*)
+- Dr. Sthabile Kowla (advice for students)
 - Dr. Emily Lichko (*Cosmic Rays*)
 - Emma Louden (*Space Policy and Aerospace/Astronautics*)
 - Julie Malewicz (art; *Black Holes*)
