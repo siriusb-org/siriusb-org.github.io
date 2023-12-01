@@ -7,12 +7,27 @@ Interested in working with us? Fill out this [form](https://forms.gle/k5eQQjDZxT
 
 None of this would be possible without our partners/volunteers. For a list of people who have given their time in the past (broken out by primary involvement), see below. To learn more about a particular program we've run, use the email above or reach out to the organizer(s) directly.
 
-## 2023 VERGE
+## 2024 VERGE
 Funded by the International Astronomical Union North American Regional Office of Astronomy for Development Women and Girls in Astronomy Program and the Heising-Simons Foundation.
 
 ### Organizers
 - Ava Polzin
 - Nathalie Jones (in absentia)
+
+### Presentations
+*This list is incomplete as we are still arranging the schedule for the January program.*
+- Prof. Hsiao-Wen Chen
+- Dr. Lindsay DeMarchi (dark & quiet sky conservation)
+- Paanaakala Tanaka (traditional wayfinding, Native Hawaiian astronomy)
+
+***
+
+
+## 2023 SIRIUS B Booklet
+
+### Organizer
+- Ava Polzin
+
 
 ### Booklet Authors and Contributors
 - Yasmeen Asali (*Gravitational Waves* and *AI/Machine Learning*)
