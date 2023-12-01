@@ -24,6 +24,7 @@ Funded by the International Astronomical Union North American Regional Office of
 
 
 ## 2023 SIRIUS B Booklet
+Printing of physical books for 2024 VERGE participants funded by the IAU NA-ROAD and the Heising-Simons Foundation.
 
 ### Organizer
 - Ava Polzin
