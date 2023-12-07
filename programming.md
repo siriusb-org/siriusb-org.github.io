@@ -31,7 +31,7 @@ VERGE has been funded by one of the inaugural grants from the International Astr
 
 Interested in participating? To sign up for email updates please fill out our [student interest form](https://forms.gle/wqmpexV7VcYHF4hC7){:target="_blank"}. Alternatively, if you're a teacher interested in learning about our opportunities for your students, please fill out our [teacher interest form](https://forms.gle/Dvaod8XKwJD1te396){:target="_blank"}.
 
-***Our first official VERGE program will run January 27-28, 2024 for Native Hawaiian girls in late middle school and high school.*** 
+***Our first official VERGE program will run January 27-28, 2024 for Native girls in late middle school and high school.*** 
 
 ![Participants enjoying citizen science during Stellar STEM Weekend]({{ "March2019_ssw.jpg" | relative_url }})
 Participants enjoying citizen science during the 2019 Stellar STEM Weekend.
