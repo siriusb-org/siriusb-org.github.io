@@ -41,7 +41,7 @@ Printing of physical books for 2024 VERGE participants funded by the IAU NA-ROAD
 - Prof. Deanne Coppejans (advice for students)
 - Dr. Lindsay DeMarchi (*Dark and Quiet Sky Conservation*)
 - Michelle Gurevich (*Numerical Relativity and Gravitational Waves*)
-- Dr. Sthabile Kowla (advice for students)
+- Dr. Sthabile Kolwa (advice for students)
 - Dr. Emily Lichko (*Cosmic Rays*)
 - Emma Louden (*Space Policy and Aerospace/Astronautics*)
 - Julie Malewicz (art; *Black Holes*)
