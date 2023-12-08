@@ -26,7 +26,9 @@ A series of virtual workshops for Indigenous students (grades 8 - 11) in remote 
 
 VERGE aims to make programming like the Stellar STEM Weekends accessible to Native students from reservations, rural areas, and the like. VERGE weekends will include talks and instruction from professional astronomers/astrophysicists, cultural exchange and a discussion of traditional star knowledge, and a conversation about the night sky as one of our greatest collective resources. 
 
-VERGE has been funded by one of the inaugural grants from the International Astronomical Union's North American Regional Office of Astronomy for Development (NA-ROAD) Women and Girls in Astronomy Program. As a result, our 2023 program will exclusively enroll girls. We anticipate expanding enrollment in the future.
+Though generally useful as a primer, our book, *Astronomy as a Field: A Guide for Aspiring Astrophysicists*, was created as a supplement to the content of VERGE weekends for participating students. A virtual copy can be found [here](https://arxiv.org/abs/2312.04041){:target="_blank"}.
+
+VERGE has been funded by one of the inaugural grants from the International Astronomical Union's North American Regional Office of Astronomy for Development (NA-ROAD) Women and Girls in Astronomy Program. As a result, our 2024 program will exclusively enroll girls. We anticipate expanding enrollment in the future.
 
 
 Interested in participating? To sign up for email updates please fill out our [student interest form](https://forms.gle/wqmpexV7VcYHF4hC7){:target="_blank"}. Alternatively, if you're a teacher interested in learning about our opportunities for your students, please fill out our [teacher interest form](https://forms.gle/Dvaod8XKwJD1te396){:target="_blank"}.

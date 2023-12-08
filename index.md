@@ -15,3 +15,5 @@ SIRIUS B is an organization committed to _Sirius_-ly good programming targeted a
         <iframe width="640px" height="480px" src="https://mixam.com/embed/655e512954d35004d36598dd" allowtransparency="true" allowfullscreen="true" frameborder="0"></iframe>
     </div>
 </div>
+
+**You can also find a copy of the book on [arXiv](https://arxiv.org/abs/2312.04041){:target="_blank"}.**
