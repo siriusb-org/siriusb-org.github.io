@@ -16,8 +16,9 @@ Funded by the International Astronomical Union North American Regional Office of
 
 ### Presentations
 *This list is incomplete as we are still arranging the schedule for the January program.*
-- Prof. Hsiao-Wen Chen
+- Prof. Hsiao-Wen Chen (galaxies)
 - Dr. Lindsay DeMarchi (dark & quiet sky conservation)
+- Prof. Malena Rice (exoplanets)
 - Paanaakala Tanaka (traditional wayfinding, Native Hawaiian astronomy)
 
 ***
