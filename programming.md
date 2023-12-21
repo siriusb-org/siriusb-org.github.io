@@ -39,6 +39,7 @@ Media:
 - [Yale Physics news item about current and alumni member contribution to SIRIUS B book (*Astronomy as a Field: A Guide for Aspiring Astrophysicists*)](https://physics.yale.edu/news/yale-astronomy-and-physics-members-contribute-guide-aspiring-astrophysicists){:target="_blank"}
 - [Yale Astronomy news item about current and alumni member contribution to SIRIUS B book](https://astronomy.yale.edu/news/yale-astronomy-members-contribute-guide-aspiring-astrophysicists){:target="_blank"}
 - [Yale Astronomy newsletter discussion of SIRIUS B book, p. 2](https://astronomy.yale.edu/sites/default/files/files/Astronomy%20Newsletter%20Winter%202023.pdf){:target="_blank"}
+- [Yale Wright Laboratory news item about current and alumni member contribution to SIRIUS B book](https://wlab.yale.edu/news/yale-astronomy-and-physics-members-contribute-guide-aspiring-astrophysicists){:target="_blank"}
 
 ![Participants enjoying citizen science during Stellar STEM Weekend]({{ "March2019_ssw.jpg" | relative_url }})
 Participants enjoying citizen science during the 2019 Stellar STEM Weekend.
