@@ -20,6 +20,7 @@ Funded by the International Astronomical Union North American Regional Office of
 - Dr. Lindsay DeMarchi (dark & quiet sky conservation)
 - Prof. Malena Rice (exoplanets)
 - Paanaakala Tanaka (traditional wayfinding, Native Hawaiian astronomy)
+- Dr. Luna Zagorac (dark matter and cosmology)
 
 ***
 
