@@ -36,8 +36,9 @@ Interested in participating? To sign up for email updates please fill out our [s
 ***Our first official VERGE program will run January 27-28, 2024 for Native girls in late middle school and high school.*** 
 
 Media:
-- [Yale Astronomy News item about current and alumni member contribution to SIRIUS B book](https://astronomy.yale.edu/news/yale-astronomy-members-contribute-guide-aspiring-astrophysicists){:target="_blank"}
-- [Yale Astronomy discussion of SIRIUS B book (*Astronomy as a Field: A Guide for Aspiring Astrophysicists*), p. 2](https://astronomy.yale.edu/sites/default/files/files/Astronomy%20Newsletter%20Winter%202023.pdf){:target="_blank"}
+- [Yale Physics news item about current and alumni member contribution to SIRIUS B book (*Astronomy as a Field: A Guide for Aspiring Astrophysicists*)](https://physics.yale.edu/news/yale-astronomy-and-physics-members-contribute-guide-aspiring-astrophysicists){:target="_blank"}
+- [Yale Astronomy news item about current and alumni member contribution to SIRIUS B book](https://astronomy.yale.edu/news/yale-astronomy-members-contribute-guide-aspiring-astrophysicists){:target="_blank"}
+- [Yale Astronomy newsletter discussion of SIRIUS B book, p. 2](https://astronomy.yale.edu/sites/default/files/files/Astronomy%20Newsletter%20Winter%202023.pdf){:target="_blank"}
 
 ![Participants enjoying citizen science during Stellar STEM Weekend]({{ "March2019_ssw.jpg" | relative_url }})
 Participants enjoying citizen science during the 2019 Stellar STEM Weekend.
