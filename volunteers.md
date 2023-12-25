@@ -15,10 +15,11 @@ Funded by the International Astronomical Union North American Regional Office of
 - Nathalie Jones (in absentia)
 
 ### Presentations
-*This list is incomplete as we are still arranging the schedule for the January program.*
+<!-- *This list is incomplete as we are still arranging the schedule for the January program.* -->
 - Prof. Hsiao-Wen Chen (galaxies)
 - Dr. Lindsay DeMarchi (dark & quiet sky conservation)
 - Prof. Malena Rice (exoplanets)
+- Dr. Candice Stauffer (stars & stellar transients)
 - Paanaakala Tanaka (traditional wayfinding, Native Hawaiian astronomy)
 - Dr. Luna Zagorac (dark matter and cosmology)
 
@@ -96,7 +97,7 @@ Funded by the Northwestern Office of Institutional Diversity and Inclusion and t
 - Prof. Aaron Geller (talk and Adler Planetarium Space Visualization Lab tour)
 - Prof. Zosia Krusberg (talk)
 - Prof. Raf Margutti (talk)
-- Prof. Art Schmidt ("Magic of Science" show)
+- Prof. Art Schmidt ("Magic of Physics" show)
 
 ***
 
@@ -132,5 +133,5 @@ Funded by the Northwestern Office of Institutional Diversity and Inclusion.
 - Prof. Aaron Geller (talk and Adler Planetarium Space Visualization Lab tour)
 - Prof. Zosia Krusberg (talk)
 - Prof. Raf Margutti (talk)
-- Prof. Art Schmidt ("Magic of Science" show)
+- Prof. Art Schmidt ("Magic of Physics" show)
 
