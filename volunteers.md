@@ -129,7 +129,7 @@ Funded by the Northwestern Office of Institutional Diversity and Inclusion.
 
 ### Science Presentations
 - Prof. Eric Dahl (talk and lab tour)
-- Prof. Claude-André Faucer-Giguère (talk)
+- Prof. Claude-André Faucher-Giguère (talk)
 - Prof. Aaron Geller (talk and Adler Planetarium Space Visualization Lab tour)
 - Prof. Zosia Krusberg (talk)
 - Prof. Raf Margutti (talk)

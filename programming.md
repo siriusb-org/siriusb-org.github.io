@@ -33,7 +33,7 @@ VERGE has been funded by one of the inaugural grants from the International Astr
 
 Interested in participating? To sign up for email updates please fill out our [student interest form](https://forms.gle/wqmpexV7VcYHF4hC7){:target="_blank"}. Alternatively, if you're a teacher interested in learning about our opportunities for your students, please fill out our [teacher interest form](https://forms.gle/Dvaod8XKwJD1te396){:target="_blank"}.
 
-***Our first official VERGE program will run January 27-28, 2024 for Native girls in late middle school and high school.*** 
+***Our first official VERGE program will run January 27, 2024 for Native girls in late middle school and high school.*** 
 
 Media:
 - [Yale Physics news item about current and alumni member contribution to SIRIUS B book (*Astronomy as a Field: A Guide for Aspiring Astrophysicists*)](https://physics.yale.edu/news/yale-astronomy-and-physics-members-contribute-guide-aspiring-astrophysicists){:target="_blank"}
@@ -47,7 +47,7 @@ Participants enjoying citizen science during the 2019 Stellar STEM Weekend.
 
 &nbsp;
 
-We thank the IAU [North American Regional Office of Astronomy for Development](https://naroad.astro4dev.org/) and the [Heising-Simons Foundation](https://www.hsfoundation.org/) for their support of our next VERGE weekend. ![Our sponsors -- IAU NA-ROAD and the Heising-Simons Foundation]({{ "sponsors2.png" | relative_url }}){:width="40%"} 
+We thank the IAU [North American Regional Office of Astronomy for Development](https://naroad.astro4dev.org/) and the [Heising-Simons Foundation](https://www.hsfoundation.org/) for their support of our 2023-2024 VERGE weekend. ![Our sponsors -- IAU NA-ROAD and the Heising-Simons Foundation]({{ "sponsors2.png" | relative_url }}){:width="40%"} 
 
 <!-- if using sponsors.png, width = 20%-->
 
