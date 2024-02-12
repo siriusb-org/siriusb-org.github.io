@@ -41,6 +41,7 @@ Media:
 - [Yale Astronomy newsletter discussion of SIRIUS B book, p. 2](https://astronomy.yale.edu/sites/default/files/files/Astronomy%20Newsletter%20Winter%202023.pdf){:target="_blank"}
 - [Yale Wright Laboratory news item about current and alumni member contribution to SIRIUS B book](https://wlab.yale.edu/news/yale-astronomy-and-physics-members-contribute-guide-aspiring-astrophysicists){:target="_blank"}
 - [Video of AAS 243 talk by SIRIUS B founder about the pilot of the VERGE program](https://youtu.be/Lrq_c1HALP8){:target="_blank"}
+- [IAU NA-ROAD coverage of the VERGE program and WGAP at AAS 243](https://naroad.astro4dev.org/2024/02/11/the-women-and-girls-in-astronomy-program-makes-strides-at-the-243rd-american-astronomical-society-meeting/){:target="_blank"}
 
 ![Participants enjoying citizen science during Stellar STEM Weekend]({{ "March2019_ssw.jpg" | relative_url }})
 Participants enjoying citizen science during the 2019 Stellar STEM Weekend.
