@@ -5,7 +5,7 @@ title: Our Programming
 
 ## Stellar STEM Weekends
 
-Stellar STEM Weekends were first piloted in cooperation with the Northwestern University Center for Native American and Indigenous Research (CNAIR), the Northwestern Office of Institutional Diversity and Inclusion, and the Northwestern Department of Physics and Astronomy in 2018 and 2019. Though the onset of the COVID-19 pandemic derailed the planning that was underway in 2020, we are now back in a position to reprise these Weekends of science education and cultural exchange. We are now exploring the possibility of running a Chicago-area Stellar STEM Weekend. Check back for more soon!
+Stellar STEM Weekends were first piloted in cooperation with the Northwestern University Center for Native American and Indigenous Research (CNAIR), the Northwestern Office of Institutional Diversity and Inclusion, and the Northwestern Department of Physics and Astronomy in 2018 and 2019. Though the onset of the COVID-19 pandemic derailed the planning that was underway in 2020, we are now back in a position to reprise these Weekends of science education and cultural exchange. We are now exploring the possibility of resuming running in-person Chicago-area Stellar STEM Weekends. Check back for more soon!
 
 
 Media:
