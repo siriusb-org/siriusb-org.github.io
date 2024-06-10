@@ -56,6 +56,13 @@ A collage of images from our inaugural VERGE program in January 2024.
 
 
 
+## Women's History Month 2025
+
+In a one-time series aimed at increasing representation for, and retention of, women in astrophusics, SIRIUS B is partnering with the Kavli Institute for Cosmological Physics at the University of Chicago to distribute *Astronomy as a Field* to Chicago-area students and the public. We will hold a kick-off event that focuses on the work and accomplishments of UChicago's female astrophysicists, a talk series featuring prominent senior women in the field, and a symposium that connects the authors of the SIRIUS B pedagogical text with students who are interested in, or are actively, pursuing careers in astrophysics.
+
+More information, including event sign-up, will be made available soon.
+
+This effort is funded by a generous grant from the University of Chicago Women's Board.
 
 
 
