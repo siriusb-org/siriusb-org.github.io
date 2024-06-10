@@ -3,6 +3,8 @@ layout: page
 title: Our Programming
 ---
 
+Jump to [Stellar STEM Weekends](#stellar-stem-weekends), [VERGE: Virtual Events for Remote Gathering and Engagement](#verge:-virtual-events-for-remote-gathering-and-engagement), [Women's History Month 2025](#women's-history-month-2025)
+
 ## Stellar STEM Weekends
 
 Stellar STEM Weekends were first piloted in cooperation with the Northwestern University Center for Native American and Indigenous Research (CNAIR), the Northwestern Office of Institutional Diversity and Inclusion, and the Northwestern Department of Physics and Astronomy in 2018 and 2019. Though the onset of the COVID-19 pandemic derailed the planning that was underway in 2020, we are now back in a position to reprise these Weekends of science education and cultural exchange. We are now exploring the possibility of resuming running in-person Chicago-area Stellar STEM Weekends. Check back for more soon!
@@ -54,7 +56,7 @@ We thank the IAU [North American Regional Office of Astronomy for Development](h
 ![A collage of images from our inaugural VERGE program in January 2024]({{ "verge24_allpic.png" | relative_url }})
 A collage of images from our inaugural VERGE program in January 2024.
 
-
+&nbsp;
 
 ## Women's History Month 2025
 
