@@ -62,6 +62,9 @@ Printing of physical books for 2024 VERGE participants funded by the IAU NA-ROAD
 - Dr. Luna Zagorac (*Theoretical Cosmology*)
 - Prof. Irina Zhuravleva (advice for students)
 
+<!-- ### Translators
+- Gabriel Martins Costa (Portuguese) -->
+
 
 ***
 
