@@ -3,7 +3,7 @@ layout: page
 title: Our Programming
 ---
 
-Jump to [Stellar STEM Weekends](#stellar-stem-weekends), [VERGE: Virtual Events for Remote Gathering and Engagement](#verge-virtual-events-for-remote-gathering-and-engagement), [Women's History Month 2025](#picture-an-astronomer-womens-history-month-2025)
+Jump to [Stellar STEM Weekends](#stellar-stem-weekends), [VERGE: Virtual Events for Remote Gathering and Engagement](#verge-virtual-events-for-remote-gathering-and-engagement), [Picture an Astronomer](#picture-an-astronomer-womens-history-month-2025)
 
 ## Stellar STEM Weekends
 
