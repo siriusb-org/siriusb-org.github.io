@@ -3,7 +3,7 @@ layout: page
 title: Picture an Astronomer
 ---
 
-Thanks to a generous grant from the University of Chicago Women's Board, we are able to run a one-time series of events aimed at increasing representation for, and retention of, women in astrophysics. In partnership with the Kavli Institute for Cosmological Physics at the University of Chicago, programming will run from January - March 2025, with opportunities to participate/attend both in-person and virtually and recordings made available after each event (which will be linked here) to extend reach.
+Thanks to a generous grant from the University of Chicago Women's Board, we are able to run a one-time series of events aimed at increasing representation for, and retention of, women in astrophysics. In partnership with the Kavli Institute for Cosmological Physics at the University of Chicago, programming will run from January - March 2025, with opportunities to participate/attend both in person and virtually, and recordings will made available after each event (linked here) to extend reach.
 
 See below for details of our [Kick-off Event](#kick-off-event), [Public Lectures](#public-lectures), and [Symposium](#symposium), including registration and attendance information and recordings (post-event). We will be updating this page regularly in the run-up to these events, so do check back for more.
 
@@ -21,7 +21,7 @@ TBD
 
 ## Kick-off Event
 
-**Save the date: January 30, 2025 at the University of Chicago William Eckhard Research Center (5640 S. Ellis Ave., Chicago, IL)**
+**Save the date: January 30, 2025 at the University of Chicago William Eckhardt Research Center (5640 S. Ellis Ave., Chicago, IL)**
 
 We're starting the Women's History Month celebration early! To set the tone for the rest of the Picture an Astronomer programming and highlight the astronomical contributions of local women, we are hosting a kick-off event, featuring talks from female faculty in the Department of Astronomy & Astrophysics.  In-person attendees will receive a hard copy of the SIRIUS B pedagogical text, [*Astronomy as a Field: A Guide for Aspiring Astrophysicists*](https://arxiv.org/abs/2312.04041){:target="_blank"}, which was created by a University of Chicago PhD candidate and features contributions from a number of Chicago astrophysicists.
 
@@ -51,7 +51,7 @@ TBA
 
 ## Symposium
 
-In March 2025, we will host a scientific symposium including female faculty from diverse institutions and backgrounds. We intend this to be an opportunity to engage in a larger discussion about the state of the field for women around the globe and will spend a portion of the symposium in "hack day" mode, looking to discuss solutions to universal and near-universal challenges to the retention of female astrophysicists and potentially codify these discussions in public white papers. This symposium alone will not fix the leaky pipeline, but we hope that crowd-sourcing best practices for increasing retention will inspire the implementation of small, but significant changes that lead to inclusion. Simultaneously, we hope that promoting these sorts of discussions will lead to the potential for larger changes with expanded engagement.
+In March 2025, we will host a scientific symposium including female faculty from diverse institutions and backgrounds. We intend this to be an opportunity to engage in a larger discussion about the state of the field for women around the globe and will spend a portion of the symposium in "hack day" mode, looking to discuss solutions to universal and near-universal challenges to the retention of female astrophysicists. An extended goal is to codify these discussions in public white papers. This symposium alone will not fix the leaky pipeline, but we hope that crowd-sourcing best practices for increasing retention will inspire the implementation of even small, but significant changes that lead to inclusion. Simultaneously, we hope that promoting these sorts of discussions will lead to the potential for larger changes with expanded engagement.
 
 *Registration information coming soon.*
 
