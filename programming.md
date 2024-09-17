@@ -3,7 +3,7 @@ layout: page
 title: Our Programming
 ---
 
-Jump to [Stellar STEM Weekends](#stellar-stem-weekends), [VERGE: Virtual Events for Remote Gathering and Engagement](#verge-virtual-events-for-remote-gathering-and-engagement), [Women's History Month 2025](#womens-history-month-2025)
+Jump to [Stellar STEM Weekends](#stellar-stem-weekends), [VERGE: Virtual Events for Remote Gathering and Engagement](#verge-virtual-events-for-remote-gathering-and-engagement), [Women's History Month 2025](#picture-an-astronomer-womens-history-month-2025)
 
 ## Stellar STEM Weekends
 
@@ -58,7 +58,7 @@ A collage of images from our inaugural VERGE program in January 2024.
 
 &nbsp;
 
-## Women's History Month 2025
+## Picture an Astronomer: Women's History Month 2025
 
 In a one-time series aimed at increasing representation for, and retention of, women in astrophysics, SIRIUS B is partnering with the Kavli Institute for Cosmological Physics at the University of Chicago to distribute *Astronomy as a Field* to Chicago-area students and the public. We will hold a kick-off event that focuses on the work and accomplishments of UChicago's female astrophysicists, a talk series featuring prominent senior women in the field, and a symposium that connects the authors of the SIRIUS B pedagogical text with students who are interested in, or are actively pursuing, careers in astrophysics.
 
