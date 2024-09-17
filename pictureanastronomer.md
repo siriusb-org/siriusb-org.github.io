@@ -32,7 +32,7 @@ The talks will be followed by a panel discussion. Other department members will 
 #### Confirmed Invited Speakers:
 TBA
 
-#### Other Presenters
+#### Other Presenters:
 TBA
 
 
