@@ -29,8 +29,9 @@ The talks will be followed by a panel discussion. Other department members will 
 
 *Registration information coming soon.*
 
-#### Confirmed Invited Speakers:
-TBA
+#### Confirmed Invited Speakers (more to be added):
+- Chihway Chang
+- Hsiao-Wen Chen
 
 #### Other Presenters:
 TBA
