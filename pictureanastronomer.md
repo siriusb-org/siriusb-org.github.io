@@ -29,11 +29,12 @@ The talks will be followed by a panel discussion. Other department members will 
 
 *Registration information coming soon.*
 
-#### Confirmed Invited Speakers (more to be added):
-- Chihway Chang
-- Hsiao-Wen Chen
+#### Confirmed Invited Speakers (more to be added)
+- Prof. Chihway Chang
+- Prof. Hsiao-Wen Chen
+- Prof. Leslie Rogers
 
-#### Other Presenters:
+#### Other Presenters
 TBA
 
 
@@ -45,8 +46,8 @@ These lectures are intended for a general audience and are suitable for all ages
 
 *Registration information coming soon. Note that separate registration is required for each talk.*
 
-#### Schedule:
-TBA
+#### Schedule (more to be added)
+ - Prof. Dame Jocelyn Bell Burnell -- February 19
 
 
 ## Symposium
@@ -55,7 +56,7 @@ In March 2025, we will host a scientific symposium including female faculty from
 
 *Registration information coming soon.*
 
-#### Confirmed Invited Speakers:
+#### Confirmed Invited Speakers
 TBA
 
 
