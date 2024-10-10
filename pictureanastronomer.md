@@ -3,9 +3,9 @@ layout: page
 title: Picture an Astronomer
 ---
 
-Thanks to a generous grant from the University of Chicago Women's Board, we are able to run a one-time series of events aimed at increasing representation for, and retention of, women in astrophysics. In partnership with the Kavli Institute for Cosmological Physics at the University of Chicago, programming will run from January - March 2025, with opportunities to participate/attend both in person and virtually, and recordings will made available after each event (linked here) to extend reach.
+Thanks to a generous grant from the University of Chicago Women's Board, we are able to run a one-time series of events aimed at increasing representation for, and retention of, women in astrophysics. In partnership with the Kavli Institute for Cosmological Physics at the University of Chicago, programming will run from January - March 2025, with opportunities to participate/attend both in person and virtually, and recordings will made available after each event to extend reach.
 
-See below for details of our [Kick-off Event](#kick-off-event), [Public Lectures](#public-lectures), and [Symposium](#symposium), including registration and attendance information and recordings (post-event). We will be updating this page regularly in the run-up to these events; see [pictureanastronomer.github.io](https://pictureanastronomer.github.io){:target="_blank"} for more.
+See below for details of our [Kick-off Event](#kick-off-event), [Public Lectures](#public-lectures), and [Symposium](#symposium), including registration and attendance information and recordings (post-event). We will be updating this page regularly in the run-up to these events; see [pictureanastronomer.github.io](https://pictureanastronomer.github.io){:target="_blank"} for more, including registration information.
 
 #### Scientific Organizing Committee
 - Ava Polzin
@@ -28,8 +28,6 @@ We're starting the Women's History Month celebration early! To set the tone for 
 
 The talks will be followed by a panel discussion. Other department members will also be available to answer questions about astronomy in general, and there will be ample opportunity to engage with more junior women in the department (PhD students and postdoctoral fellows) to learn more about their work. 
 
-*Registration information coming soon.*
-
 #### Confirmed Invited Speakers (more to be added)
 - Prof. Chihway Chang
 - Prof. Hsiao-Wen Chen
@@ -43,12 +41,14 @@ TBA
 
 For each of the four weeks in February, we are hosting a public talk featuring a prominent and inspiring woman in astrophysics. Each talk will be followed by a structured Q&A.
 
-These lectures are intended for a general audience and are suitable for all ages.
+These lectures are intended for a general audience.
 
-*Registration information coming soon. Note that separate registration is required for each talk.*
 
-#### Schedule (more to be added)
+#### Schedule
+ - Dr. Dara Norman -- February 3
+ - Dr. Katie Mack -- date TBD
  - Prof. Dame Jocelyn Bell Burnell -- February 19
+ - Prof. Anna Frebel -- February 25
 
 
 ## Symposium
@@ -57,7 +57,6 @@ These lectures are intended for a general audience and are suitable for all ages
 
 In March 2025, we will host a scientific symposium including female faculty from diverse institutions and backgrounds. We intend this to be an opportunity to engage in a larger discussion about the state of the field for women around the globe and will spend a portion of the symposium in "hack day" mode, looking to discuss solutions to universal and near-universal challenges to the retention of female astrophysicists. An extended goal is to codify these discussions in public white papers. This symposium alone will not fix the leaky pipeline, but we hope that crowd-sourcing best practices for increasing retention will inspire the implementation of even small, but significant changes that lead to inclusion. Simultaneously, we hope that promoting these sorts of discussions will lead to the potential for larger changes with expanded engagement.
 
-*Registration information coming soon.*
 
 #### Confirmed Invited Speakers
 TBA
