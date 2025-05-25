@@ -60,7 +60,7 @@ A collage of images from our inaugural VERGE program in January 2024.
 
 ## Picture an Astronomer
 
-In a one-time series aimed at increasing representation for, and retention of, women in astrophysics, SIRIUS B is partnering with the Kavli Institute for Cosmological Physics at the University of Chicago to distribute *Astronomy as a Field* to Chicago-area students and the public. We will hold a kick-off event that focuses on the work and accomplishments of UChicago's female astrophysicists, a talk series featuring prominent senior women in the field, and a symposium that connects the authors of the SIRIUS B pedagogical text with students who are interested in, or are actively pursuing, careers in astrophysics.
+In a one-time series aimed at increasing representation for, and retention of, women in astrophysics, SIRIUS B partnered with the Kavli Institute for Cosmological Physics at the University of Chicago to distribute *Astronomy as a Field* to Chicago-area students and the public. We held a kick-off event that focuses on the work and accomplishments of UChicago's female astrophysicists, a talk series featuring prominent senior women in the field, and a symposium that connected a number of scientists, including the authors of the SIRIUS B pedagogical text, to discuss retaining talent in astrophysics.
 
 More information is available [here](https://pictureanastronomer.github.io){:target="_blank"}.
 
