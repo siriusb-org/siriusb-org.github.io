@@ -30,7 +30,7 @@ VERGE aims to make programming like the Stellar STEM Weekends accessible to Nati
 
 Though generally useful as a primer, our book, *Astronomy as a Field: A Guide for Aspiring Astrophysicists*, was created as a supplement to the content of VERGE weekends for participating students. A virtual copy can be found [here](https://arxiv.org/abs/2312.04041){:target="_blank"}.
 
-VERGE has been funded by one of the inaugural grants from the International Astronomical Union's North American Regional Office of Astronomy for Development (NA-ROAD) Women and Girls in Astronomy Program. As a result, our 2024 program will exclusively enroll girls. We anticipate expanding enrollment in the future.
+VERGE was funded by one of the inaugural grants from the International Astronomical Union's North American Regional Office of Astronomy for Development (NA-ROAD) Women and Girls in Astronomy Program. As a result, our 2024 program exclusively enrolled girls. We anticipate expanding enrollment in the future.
 
 
 Interested in participating? To sign up for email updates please fill out our [student interest form](https://forms.gle/wqmpexV7VcYHF4hC7){:target="_blank"}. Alternatively, if you're a teacher interested in learning about our opportunities for your students, please fill out our [teacher interest form](https://forms.gle/Dvaod8XKwJD1te396){:target="_blank"}.
@@ -66,6 +66,8 @@ More information is available [here](https://pictureanastronomer.github.io){:tar
 
 This effort is funded by a generous grant from the University of Chicago Women's Board and is supported by the Kavli Institute for Cosmological Physics and the University of Chicago Department of Astronomy & Astrophysics.
 
+Media:
+- [astrobites coverage of the Picture an Astronomer Symposium](https://astrobites.org/2025/02/11/the-picture-an-astronomer-symposium/){:target="_blank"}
 
 
 <!-- if using sponsors.png, width = 20%-->
