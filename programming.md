@@ -3,7 +3,7 @@ layout: page
 title: Our Programming
 ---
 
-Jump to [Stellar STEM Weekends](#stellar-stem-weekends), [VERGE: Virtual Events for Remote Gathering and Engagement](#verge-virtual-events-for-remote-gathering-and-engagement), [Picture an Astronomer](#picture-an-astronomer-womens-history-month-2025)
+Jump to [Stellar STEM Weekends](#stellar-stem-weekends), [VERGE: Virtual Events for Remote Gathering and Engagement](#verge-virtual-events-for-remote-gathering-and-engagement), [Picture an Astronomer](#picture-an-astronomer)
 
 ## Stellar STEM Weekends
 
@@ -62,9 +62,9 @@ A collage of images from our inaugural VERGE program in January 2024.
 
 In a one-time series aimed at increasing representation for, and retention of, women in astrophysics, SIRIUS B is partnering with the Kavli Institute for Cosmological Physics at the University of Chicago to distribute *Astronomy as a Field* to Chicago-area students and the public. We will hold a kick-off event that focuses on the work and accomplishments of UChicago's female astrophysicists, a talk series featuring prominent senior women in the field, and a symposium that connects the authors of the SIRIUS B pedagogical text with students who are interested in, or are actively pursuing, careers in astrophysics.
 
-More information, including event sign-up, is available [here](https://siriusb.org/pictureanastronomer).
+More information is available [here](https://pictureanastronomer.github.io){:target="_blank"}.
 
-This effort is funded by a generous grant from the University of Chicago Women's Board and is supported by the Kavli Institute for Cosmological Physics.
+This effort is funded by a generous grant from the University of Chicago Women's Board and is supported by the Kavli Institute for Cosmological Physics and the University of Chicago Department of Astronomy & Astrophysics.
 
 
 
