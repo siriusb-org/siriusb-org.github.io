@@ -11,6 +11,6 @@ title: Astronomy as a Field
     </div>
 </div>
 
-In addition to the online version and the printed copies given to SIRIUS B VERGE participants, hard copies of *Astronomy as a Field* have been distributed at the University of Chicago, University of Colorado Boulder, University of Massachusetts Amherst, University of Pittsburgh, and Yale University. If you would like to order - at cost - physical copies of *Astronomy as a Field* for your students, please get in touch (via siriusborganization@gmail.com or apolzin@uchicago.edu).
+In addition to the online version and the printed copies given to SIRIUS B VERGE participants, hard copies of *Astronomy as a Field* have been distributed at the University of Chicago, University of Colorado Boulder, University of Massachusetts Amherst, University of Pittsburgh, and Yale University. If you would like to order - at cost - physical copies of *Astronomy as a Field* for your students, please get in touch (via siriusborganization [at] gmail [dot] com or apolzin [at] uchicago [dot] edu).
 
 Similarly, *Astronomy as a Field* is currently being translated into languages other than English. If you would like to volunteer to (help) translate, please also reach out.
