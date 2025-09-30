@@ -26,7 +26,7 @@ Participants and chaperone (left) with Prof. Patty Loew (right) after the 2018 c
 
 A series of virtual workshops for Indigenous students (grades 8 - 11) in remote locations.
 
-VERGE aims to make programming like the Stellar STEM Weekends accessible to Native students from reservations, rural areas, and the like. VERGE weekends will include talks and instruction from professional astronomers/astrophysicists, cultural exchange and a discussion of traditional star knowledge, and a conversation about the night sky as one of our greatest collective resources. 
+VERGE aims to make programming like the Stellar STEM Weekends accessible to Native students from reservations, rural areas, and the like. VERGE weekends include talks and instruction from professional astronomers/astrophysicists, cultural exchange and a discussion of traditional star knowledge, and a conversation about the night sky as one of our greatest collective resources. 
 
 Though generally useful as a primer, our book, *Astronomy as a Field: A Guide for Aspiring Astrophysicists*, was created as a supplement to the content of VERGE weekends for participating students. A virtual copy can be found [here](https://arxiv.org/abs/2312.04041){:target="_blank"}.
 
@@ -41,7 +41,7 @@ Media:
 - [Yale Physics news item about current and alumni member contribution to SIRIUS B book (*Astronomy as a Field: A Guide for Aspiring Astrophysicists*)](https://physics.yale.edu/news/yale-astronomy-and-physics-members-contribute-guide-aspiring-astrophysicists){:target="_blank"}
 - [Yale Astronomy news item about current and alumni member contribution to SIRIUS B book](https://astronomy.yale.edu/news/yale-astronomy-members-contribute-guide-aspiring-astrophysicists){:target="_blank"}
 - [Yale Astronomy newsletter discussion of SIRIUS B book, p. 2](https://astronomy.yale.edu/sites/default/files/files/Astronomy%20Newsletter%20Winter%202023.pdf){:target="_blank"}
-- [Yale Wright Laboratory news item about current and alumni member contribution to SIRIUS B book](https://wlab.yale.edu/news/yale-astronomy-and-physics-members-contribute-guide-aspiring-astrophysicists){:target="_blank"}
+- [Yale Wright Laboratory news item about current and alumni member contribution to SIRIUS B book](https://web.archive.org/web/20250430033008/https://wlab.yale.edu/news/yale-astronomy-and-physics-members-contribute-guide-aspiring-astrophysicists){:target="_blank"}
 - [Video of AAS 243 talk by SIRIUS B founder about the pilot of the VERGE program](https://youtu.be/Lrq_c1HALP8){:target="_blank"}
 - [IAU NA-ROAD coverage of the VERGE program and WGAP at AAS 243](https://naroad.astro4dev.org/2024/02/11/the-women-and-girls-in-astronomy-program-makes-strides-at-the-243rd-american-astronomical-society-meeting/){:target="_blank"}
 
